@@ -1,0 +1,61 @@
+Composition,Phases,Heat Treatment,Test Temperature (°C),Grain Size (μm),Dislocation Density (×10¹⁴ m⁻²),YS (MPa),UTS (MPa),Hardness (HV),Elongation (%),Strain Rate (s⁻¹),n,K (Mpa)
+Co,FCC,"Annealed at 1100°C, water quenched",400,8.8,3.25,388,714,260,1.72E+01,2.40E+03,0.18,742
+Co15Ni,HCP + carbides,"Annealed at 1100°C, water quenched",400,7.7,3.41,479,686,209 HV,23.9,7.00E+03,0.18,614
+Co15Ni,FCC + HCP,"Hot rolled, aged at 800°C",500,5.8,3.9,479,738,211 HV,1.55E+01,2.90E+03,0.18,639
+Co,HCP + carbides,"Annealed at 1100°C, water quenched",25,11,2.45,458,,208,1.55E+01,1.00E+02,0.19,745
+Co15Ni,FCC,"Cold worked 15%, no aging",100,5.6,3.49,459,694,201 HV,1.92E+01,4.00E+03,0.24,604
+Co15Ni,HCP,"Annealed @950°C, slow cool",600,10.8,4.42,470,,224,2.06E+01,3.70E+03,0.16,714
+Co15Ni,HCP,"Annealed @950°C, slow cool",25,9.7 µm,,467,,236,2.22E+01,9.80E+03,0.2,637
+Co25Ni,HCP,"Annealed @950°C, slow cool",100,10.8,2.55,425,625,259 HV,2.38E+01,1.10E+03,0.18,
+Co10Ni,HCP + carbides,"Annealed @950°C, slow cool",100,6.8,,477,605,238,1.82E+01,6.60E+04,0.17,737
+Co,HCP + carbides,"Aged 650°C, 2h",200,5.6,,404,,254,2.21E+01,2.00E+03,,670
+Co10Ni,HCP,"Annealed @950°C, slow cool",,6.7,2.02,459,671,229 HV,2.11E+01,2.80E+03,0.17,708
+Co20Ni,HCP + carbides,"Annealed at 1100°C, water quenched",500,9.8,1.97,472,629,201,2.31E+01,3.80E+04,0.19,651
+Co20Ni,FCC,"Annealed at 1100°C, water quenched",400,4.9 µm,,455,635,241,16.1,6.10E+03,0.21,
+Co10Ni,HCP + carbides,"Aged 650°C, 2h",400,10.8,2.66,451,618,225,,9.90E+04,0.17,693
+Co,HCP,"Aged 650°C, 2h",200,5.6,3.99,516,697,249,1.71E+01,4.20E+03,0.22,708
+Co15Ni,FCC,"Aged 650°C, 2h",100,5.6,3.87,418,694,212,1.93E+01,4.70E+03,0.25,622
+Co15Ni,FCC + HCP,"Annealed @950°C, slow cool",100,8.3,3.39,394,662,240 HV,2.20E+01,2.50E+03,0.15,677
+Co20Ni,HCP,"Annealed @950°C, slow cool",300,4.3 µm,2.55,,606,226,,5.90E+03,0.2,734
+Co15Ni,HCP,"Annealed @950°C, slow cool",200,7.8 µm,3.17,499,755,258,,8.10E+03,0.21,712
+Co,HCP + carbides,"Hot rolled, aged at 800°C",25,7.9,3.31,456,769,214 HV,2.20E+01,8.80E+03,0.15,632
+Co10Ni,HCP + carbides,"Aged 650°C, 2h",,7.1,3.76,,,202 HV,,2.90E+04,0.23,701
+Co20Ni,FCC,"Annealed @950°C, slow cool",200,11.3,,474,771,230,1.69E+01,6.20E+03,0.22,646
+Co10Ni,FCC + HCP,"Hot rolled, aged at 800°C",400,4.6,4.16,469,643,245,2.48E+01,7.50E+03,0.21,644
+Co,FCC,"Annealed @950°C, slow cool",200,8.7 µm,2.86,505,668,256 HV,17,9.90E+03,0.21,
+Co20Ni,HCP,"Annealed at 1100°C, water quenched",500,4.4,2.75,433,608,250,2.04E+01,4.50E+03,0.15,644
+Co15Ni,FCC + HCP,"Annealed @950°C, slow cool",,10.2,1.86,428,740,228,2.33E+01,4.20E+04,0.17,727
+Co,HCP,"Annealed @950°C, slow cool",,9.7,4.37,459,729,246,2.26E+01,,0.16,674
+Co,FCC + HCP,"Cold worked 15%, no aging",200,11.8,4.4,511,742,207,,2.90E+03,0.21,613
+Co20Ni,FCC + HCP,"Cold worked 15%, no aging",25,7.4,3.59,474,673,233,1.61E+01,7.70E+03,0.19,607
+Co15Ni,FCC,"Annealed at 1100°C, water quenched",25,8.8,1.88,407,624,242,,4.70E+04,0.22,604
+Co,FCC,"Cold worked 15%, no aging",200,6.5,,452,708,233,,8.90E+04,0.17,697
+Co25Ni,FCC,"Aged 650°C, 2h",,6.3 µm,1.56,,663,239,1.90E+01,9.00E+03,0.18,735
+Co25Ni,HCP,"Annealed @950°C, slow cool",600,12,,421,766,244 HV,1.61E+01,,0.16,607
+Co25Ni,FCC,"Aged 650°C, 2h",200,10.4,4.21,445,721,219,1.86E+01,5.10E+03,0.19,727
+Co15Ni,FCC + HCP,"Annealed @950°C, slow cool",25,5.2,,489,616,248 HV,,1.20E+04,0.19,699
+Co,HCP,"Annealed at 1100°C, water quenched",600,8.5,2.77,433,630,235,1.86E+01,3.30E+03,0.16,
+Co15Ni,FCC,"Annealed @950°C, slow cool",200,11.4,3.61,458,771,248,2.02E+01,4.70E+03,0.16,716
+Co25Ni,FCC,"Annealed at 1100°C, water quenched",25,9.9,3.54,436,737,243,,,,743
+Co10Ni,FCC,"Annealed @950°C, slow cool",400,7.2,2.55,476,608,226 HV,2.08E+01,8.10E+03,0.22,653
+Co,FCC,"Annealed at 1100°C, water quenched",500,3.7,3.97,495,635,228,2.21E+01,1.30E+03,,632
+Co15Ni,FCC,"Hot rolled, aged at 800°C",600,5.2,3.38,447,682,224 HV,1.58E+01,9.40E+03,,611
+Co20Ni,HCP,"Hot rolled, aged at 800°C",200,10.2,2.23,401,764,254 HV,2.42E+01,8.40E+04,0.18,681
+Co,HCP,"Hot rolled, aged at 800°C",500,10,,424,753,227,2.49E+01,1.20E+03,0.15,642
+Co20Ni,FCC,"Cold worked 15%, no aging",500,8.6,2.06,417,722,206,,4.10E+03,0.24,688
+Co25Ni,FCC + HCP,"Annealed at 1100°C, water quenched",200,10.5,1.79,,766,257,,8.10E+03,,649
+Co25Ni,HCP + carbides,"Cold worked 15%, no aging",300,7.6,,,695,217,,,0.2,651
+Co,HCP + carbides,"Cold worked 15%, no aging",,10.6,2.88,433,690,246,,9.30E+03,0.18,658
+Co15Ni,HCP,"Annealed @950°C, slow cool",300,5.1,1.56,471,765,218,2.03E+01,2.30E+03,0.18,
+Co20Ni,HCP + carbides,"Annealed @950°C, slow cool",100,9.2,1.95,382,708,209 HV,1.67E+01,8.00E+03,,715
+Co25Ni,FCC + HCP,"Aged 650°C, 2h",500,6.3,4.46,504,656,250,2.26E+01,8.80E+03,0.17,668
+Co10Ni,HCP + carbides,"Annealed @950°C, slow cool",500,11,1.58,491,735,254 HV,,1.10E+03,0.19,603
+Co10Ni,HCP,"Hot rolled, aged at 800°C",100,7,1.68,413,752,225,2.48E+01,8.60E+03,0.17,706
+Co25Ni,HCP + carbides,"Cold worked 15%, no aging",200,6.8,4.12,424,741,206 HV,2.23E+01,9.60E+03,0.16,724
+Co20Ni,HCP,"Annealed @950°C, slow cool",25,4.7,3.94,,755,255,,6.30E+03,0.23,639
+Co15Ni,HCP + carbides,"Cold worked 15%, no aging",,8.4,4.44,492,688,236,,5.20E+03,,610
+Co10Ni,HCP + carbides,"Annealed at 1100°C, water quenched",600,4.1 µm,4.23,410,736,247,1.51E+01,1.60E+03,0.17,
+Co20Ni,FCC,"Annealed @950°C, slow cool",500,8,4.47,405,673,229 HV,1.51E+01,8.80E+03,0.23,600
+Co15Ni,FCC,"Hot rolled, aged at 800°C",300,11.3 µm,3.89,398,746,223,2.16E+01,2.00E+03,0.17,733
+Co,FCC,"Annealed @950°C, slow cool",600,6.7,4.23,425,634,257,1.74E+01,5.00E+03,0.2,721
+Co15Ni,FCC,"Annealed @950°C, slow cool",400,5.9,3.65,431,643,255,23.1,7.40E+03,0.24,691

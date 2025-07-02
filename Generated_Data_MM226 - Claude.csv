@@ -1,0 +1,61 @@
+Composition,Phases,Heat Treatment,Test Temperature (°C),Grain Size (μm),Dislocation Density (m^2),YS (MPa),UTS (MPa),Hardness (HV),Elongation (%),Strain Rate (s⁻¹),n,K (Mpa)
+Co20Ni15Cr10Mo3Fe,γ (FCC) + ε (HCP),Solution treated 1150°C/4h + aged 780°C/8h,25,45,2.10E+14,758,986,302,12.5,1.00E+03,2.10E-01,1450
+Co18Ni15Cr10Mo2Fe1W,γ (FCC),Cold rolled 65% + annealed 950°C/2h,25,32,1.80E+15,820,1050,325,10.2,1.00E+03,1.80E-01,1520
+Co25Ni20Cr10Mo,γ (FCC),Hot rolled + solution treated 1200°C/2h,25,55,,710,905,285,15.8,,2.30E-01,1380
+Co30Ni10Cr5Mo,γ (FCC),Solution treated 1180°C/4h,25,,4.80E+13,680,870,270,17.2,1.00E+03,2.50E-01,
+Co15Ni20Cr15Mo2Fe,γ (FCC) + σ,Solution treated 1200°C/2h + aged 750°C/16h,25,38,9.60E+14,843,1075,335,8.5,1.00E+03,1.60E-01,1580
+Co22Ni18Cr12Mo,γ (FCC),Cold worked 40% + annealed 900°C/1h,25,25,1.20E+15,795,1020,,11.6,1.00E+03,1.90E-01,1500
+Co28Ni15Cr8Mo2Fe,γ (FCC),Hot forged + solution treated 1150°C/2h,25,48,6.10E+13,723,,290,14.5,1.00E+03,2.20E-01,1405
+Co35Ni10Cr5Mo1W,γ (FCC),Solution treated 1180°C/2h,25,72,3.90E+13,645,835,255,18.7,1.00E+03,2.70E-01,1280
+Co12Ni22Cr15Mo3Fe,γ (FCC) + σ + M23C6,Solution treated 1150°C/4h + aged 800°C/10h,25,,,,1120,350,,1.00E+03,0.14,
+Co5Ni30Cr5Mo,γ (FCC) + ε (HCP),Cold worked 70% + stress relieved 700°C/1h,25,15,2.50E+15,920,1180,370,5.9,1.00E+03,1.20E-01,1720
+Co25Ni20Cr10Mo,γ (FCC),Solution treated 1150°C/4h,200,60,4.90E+13,685,865,270,16.3,1.00E+03,2.40E-01,1330
+Co20Ni15Cr10Mo3Fe,γ (FCC) + ε (HCP),Solution treated 1150°C/4h + aged 780°C/8h,200,45,2.00E+14,720,940,290,11.8,1.00E+03,,1410
+Co18Ni15Cr10Mo2Fe1W,γ (FCC),Cold rolled 65% + annealed 950°C/2h,200,32,1.70E+15,785,1010,310,9.6,1.00E+03,1.90E-01,1490
+Co30Ni10Cr5Mo,γ (FCC),Solution treated 1180°C/4h,200,68,4.50E+13,650,830,,16.5,1.00E+03,2.60E-01,1290
+Co15Ni20Cr15Mo2Fe,γ (FCC) + σ,Solution treated 1200°C/2h + aged 750°C/16h,200,38,9.20E+14,805,1030,320,7.9,1.00E+03,1.70E-01,1540
+Co40Ni15Cr5Mo,γ (FCC),Solution treated 1200°C/1h,25,,,615,790,240,,1.00E+03,2.90E-01,1220
+Co8Ni25Cr12Mo5Fe,γ (FCC) + σ + M23C6,Hot forged + aged 850°C/4h,25,42,1.90E+15,860,,345,6.8,1.00E+03,,1630
+Co10Ni28Cr5Mo2W,γ (FCC) + M23C6,Solution treated 1170°C/2h + aged 780°C/24h,25,40,1.10E+15,830,1065,330,9.1,1.00E+03,1.70E-01,1560
+Co23Ni17Cr12Mo1Nb,γ (FCC) + γ',Solution treated 1180°C/4h + aged 720°C/16h,25,43,1.30E+14,815,1040,325,10.5,1.00E+03,1.80E-01,1530
+Co33Ni10Cr8Mo,γ (FCC),Hot rolled + annealed 1050°C/1h,25,62,5.70E+13,,850,265,16.8,,2.50E-01,1305
+Co20Ni15Cr10Mo3Fe,γ (FCC) + ε (HCP),Solution treated 1150°C/4h + aged 780°C/8h,400,45,1.90E+14,680,885,275,11,1.00E+03,2.30E-01,1370
+Co18Ni15Cr10Mo2Fe1W,γ (FCC),Cold rolled 65% + annealed 950°C/2h,400,32,1.60E+15,745,955,295,8.7,1.00E+03,2.00E-01,1445
+Co25Ni20Cr10Mo,γ (FCC),Hot rolled + solution treated 1200°C/2h,400,55,4.70E+13,640,825,255,14.6,1.00E+03,2.50E-01,1265
+Co30Ni10Cr5Mo,γ (FCC),Solution treated 1180°C/4h,400,68,4.20E+13,610,785,240,15.9,1.00E+03,2.70E-01,
+Co15Ni20Cr15Mo2Fe,γ (FCC) + σ,Solution treated 1200°C/2h + aged 750°C/16h,400,38,,765,975,,7.1,1.00E+03,1.80E-01,1485
+Co20Ni15Cr10Mo3Fe,γ (FCC) + ε (HCP),Solution treated 1150°C/4h + aged 780°C/8h,600,45,1.70E+14,635,815,255,10.2,1.00E+03,2.40E-01,1310
+Co18Ni15Cr10Mo2Fe1W,γ (FCC),Cold rolled 65% + annealed 950°C/2h,600,32,1.40E+15,695,,275,8,1.00E+03,2.10E-01,1390
+Co25Ni20Cr10Mo,γ (FCC),Hot rolled + solution treated 1200°C/2h,600,55,4.20E+13,,770,235,13.8,1.00E+03,2.60E-01,1220
+Co30Ni10Cr5Mo,γ (FCC),Solution treated 1180°C/4h,600,68,3.80E+13,570,735,225,15.1,,2.80E-01,1180
+Co15Ni20Cr15Mo2Fe,γ (FCC) + σ,Solution treated 1200°C/2h + aged 750°C/16h,600,,8.20E+14,720,920,285,6.5,1.00E+03,,1425
+Co45Ni10Cr5Fe,γ (FCC),Solution treated 1150°C/1h,25,95,2.80E+13,585,750,230,24.5,1.00E+03,3.10E-01,1180
+Co7Ni25Cr15Mo2Fe1Ti,γ (FCC) + σ + M23C6,Solution treated 1170°C/2h + aged 760°C/24h,25,36,1.80E+15,885,1130,355,6.4,1.00E+03,1.30E-01,
+Co12Ni20Cr12Mo5Fe,γ (FCC) + σ,Hot forged + aged 800°C/8h,25,38,1.60E+15,850,1085,340,7.5,1.00E+03,1.50E-01,1605
+Co27Ni15Cr10Mo,γ (FCC),Solution treated 1180°C/2h,25,58,5.50E+13,695,890,,15.2,1.00E+03,2.30E-01,1350
+Co17Ni18Cr13Mo1Nb,γ (FCC) + γ',Solution treated 1150°C/2h + aged 750°C/16h,25,41,,825,1055,330,9.8,1.00E+03,0.17,1545
+Co38Ni8Cr5Mo,γ (FCC),Hot rolled + annealed 1100°C/1h,25,78,3.20E+13,625,805,245,20.3,1.00E+03,2.80E-01,1245
+Co100,ε (HCP),Annealed 900°C/1h,25,65,3.50E+13,480,690,220,15.5,1.00E+03,2.90E-01,1140
+Co5Fe5Cr,ε (HCP) + γ (FCC),Cold worked 50% + annealed 800°C/1h,25,25,9.80E+14,620,,265,12.8,1.00E+03,0.22,
+Co10Ni5Cr,γ (FCC) + ε (HCP),Hot rolled + annealed 950°C/1h,25,48,6.50E+13,525,745,235,14.8,1.00E+03,2.60E-01,1195
+Co50Ni10Cr,γ (FCC),Solution treated 1150°C/1h,25,105,2.40E+13,560,725,220,,1.00E+03,3.20E-01,1155
+Co60Ni5Cr,γ (FCC),Solution treated 1150°C/1h,25,120,2.00E+13,520,680,205,29.5,1.00E+03,3.40E-01,1120
+Co70Ni,γ (FCC),Solution treated 1150°C/1h,25,,1.60E+13,,635,190,33.2,1.00E+03,,1080
+Co80Ni,γ (FCC),Solution treated 1150°C/1h,25,150,,450,590,175,36.8,1.00E+03,3.80E-01,1020
+Co90Ni,γ (FCC),Solution treated 1150°C/1h,25,165,8.50E+12,425,550,160,41.5,1.00E+03,0.41,
+Co20Ni15Cr10Mo3Fe,γ (FCC),Solution treated 1150°C/4h + aged 780°C/8h,800,45,1.50E+14,585,755,235,9.5,1.00E+03,2.50E-01,1250
+Co18Ni15Cr10Mo2Fe1W,γ (FCC),Cold rolled 65% + annealed 950°C/2h,800,32,1.20E+15,640,825,,7.4,1.00E+03,2.20E-01,1330
+Co25Ni20Cr10Mo,γ (FCC),Hot rolled + solution treated 1200°C/2h,800,55,3.70E+13,545,705,215,13,1.00E+03,0.27,1165
+Co30Ni10Cr5Mo,γ (FCC),Solution treated 1180°C/4h,800,,3.40E+13,525,680,205,14.2,1.00E+03,2.90E-01,1125
+Co15Ni20Cr15Mo2Fe,γ (FCC),Solution treated 1200°C/2h + aged 750°C/16h,800,38,7.60E+14,,860,265,6,,0.2,1365
+Co2Ni30Cr5Mo2Ti,ε (HCP) + M23C6,Solution treated 1200°C/2h + aged 850°C/4h,25,28,,950,1210,380,5.4,1.00E+03,0.11,
+Co13Ni25Cr8Mo2Nb,γ (FCC) + γ' + M23C6,Solution treated 1170°C/2h + aged 780°C/10h,25,39,1.40E+15,840,1075,335,8.3,1.00E+03,1.60E-01,1575
+Co22Ni12Cr15Mo,γ (FCC),Hot forged + solution treated 1150°C/2h,25,45,7.20E+13,735,,295,13.8,1.00E+03,2.10E-01,1425
+Co27Ni15Cr10Mo1Fe1W,γ (FCC) + M23C6,Solution treated 1180°C/4h + aged 750°C/16h,25,50,9.80E+13,775,990,310,12.4,1.00E+03,1.90E-01,1480
+Co32Ni10Cr8Mo1Ti,γ (FCC),Hot rolled + annealed 1000°C/1h,25,65,4.80E+13,670,860,270,17.2,1.00E+03,2.40E-01,1325
+Co20Ni15Cr10Mo3Fe,γ (FCC),Solution treated 1150°C/4h + aged 780°C/8h,1000,,1.20E+14,520,675,210,8.8,1.00E+03,2.60E-01,1180
+Co18Ni15Cr10Mo2Fe1W,γ (FCC),Cold rolled 65% + annealed 950°C/2h,1000,32,9.50E+14,570,735,,6.7,1.00E+03,2.30E-01,1255
+Co25Ni20Cr10Mo,γ (FCC),Hot rolled + solution treated 1200°C/2h,1000,55,3.00E+13,485,630,195,12.3,1.00E+03,,
+Co30Ni10Cr5Mo,γ (FCC),Solution treated 1180°C/4h,1000,68,,465,610,185,13.5,1.00E+03,3.00E-01,1065
+Co15Ni20Cr15Mo2Fe,γ (FCC),Solution treated 1200°C/2h + aged 750°C/16h,1000,38,7.00E+14,600,780,240,5.5,1.00E+03,2.10E-01,1295
+Co50Ni30Cr15Mo5W5,γ (FCC) + ε (HCP),Hot rolled + aged 1000°C/10h,600,25,5.71E+14,545,780,320,11.7,1.00E+03,2.70E-01,1095
