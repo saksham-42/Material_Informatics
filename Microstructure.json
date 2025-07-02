@@ -1,0 +1,142 @@
+[
+    {
+        "Alloy":"UNS R30003 Elgiloy",
+        "Grain Size (in um)":"10--30",
+        "Phases reported":"? (FCC matrix), M23C6 carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[ASM Handbook Vol. 2]"
+    },
+    {
+        "Alloy":"Stellite 6",
+        "Grain Size (in um)":"5--20",
+        "Phases reported":"?-Co matrix, (Cr,Fe)7C3 carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[ASM Handbook Vol. 2]"
+    },
+    {
+        "Alloy":"Tribaloy T-400",
+        "Grain Size (in um)":"12--16",
+        "Phases reported":"?-Co, Laves phase (Co3Mo2Si)",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Tribaloy Technical Guide]"
+    },
+    {
+        "Alloy":"Stellite 21",
+        "Grain Size (in um)":"20-50",
+        "Phases reported":"?-Co, M23C6 carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[ASM Handbook Vol. 3]"
+    },
+    {
+        "Alloy":"Haynes 25 (L605)",
+        "Grain Size (in um)":"15-30",
+        "Phases reported":"? (FCC), M6C carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Haynes International]"
+    },
+    {
+        "Alloy":"MAR-M-302",
+        "Grain Size (in um)":"Single Crystal",
+        "Phases reported":"?-Co, TaC, M6C carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Superalloys Handbook]"
+    },
+    {
+        "Alloy":"FSX-414",
+        "Grain Size (in um)":"50-100",
+        "Phases reported":"?-Co, M7C3\/M23C6 carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Cobalt Alloy Database]"
+    },
+    {
+        "Alloy":"Ultimet(UNS R31233)",
+        "Grain Size (in um)":"10--20",
+        "Phases reported":"? (FCC), ?-phase",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Ultimet Datasheet]"
+    },
+    {
+        "Alloy":"INCONEL 740H",
+        "Grain Size (in um)":"100",
+        "Phases reported":"? (FCC), ??, MC carbides",
+        "Phase Identification":"Nickel",
+        "Source Used":"[INCONEL Technical Bulletin]"
+    },
+    {
+        "Alloy":"UNS R30075",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Cobalt",
+        "Source Used":"Data missing"
+    },
+    {
+        "Alloy":"MP35N",
+        "Grain Size (in um)":"4",
+        "Phases reported":"? (FCC)",
+        "Phase Identification":"Nickel-Cobalt",
+        "Source Used":"[MP35N Technical Report]"
+    },
+    {
+        "Alloy":"Hiperco 50",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Cobalt-Iron",
+        "Source Used":"Data missing"
+    },
+    {
+        "Alloy":"Haynes 188",
+        "Grain Size (in um)":"5-7.5",
+        "Phases reported":"? (FCC), M6C carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Haynes International]"
+    },
+    {
+        "Alloy":"UMCo-50",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Cobalt",
+        "Source Used":"Data missing"
+    },
+    {
+        "Alloy":"WI-52",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Cobalt",
+        "Source Used":"Data missing"
+    },
+    {
+        "Alloy":"Stellite 12",
+        "Grain Size (in um)":"10--30",
+        "Phases reported":"?-Co, Cr23C6 carbides",
+        "Phase Identification":"Cobalt",
+        "Source Used":"[Stellite Datasheet]"
+    },
+    {
+        "Alloy":"ASTM F 1537",
+        "Grain Size (in um)":"15-25",
+        "Phases reported":"?-Co, M23C6 carbides",
+        "Phase Identification":"Cobalt-Chromium",
+        "Source Used":"[ASTM Standards]"
+    },
+    {
+        "Alloy":"NIMONIC Alloy 90",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Nickel",
+        "Source Used":"Data missing"
+    },
+    {
+        "Alloy":"MP159",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Nickel-Cobalt",
+        "Source Used":"Data missing"
+    },
+    {
+        "Alloy":"Alloy S-816",
+        "Grain Size (in um)":"-",
+        "Phases reported":"-",
+        "Phase Identification":"Nickel-Chromium",
+        "Source Used":"Data missing"
+    }
+]
